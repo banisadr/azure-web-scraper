@@ -1,0 +1,2 @@
+c:\users\babanisa\documents\visual studio 2015\Projects\Receiver\Receiver\bin\Debug\Receiver.exe.config
+C:\Code\web-scraper\Receiver\Receiver\bin\Debug\Receiver.exe.config
