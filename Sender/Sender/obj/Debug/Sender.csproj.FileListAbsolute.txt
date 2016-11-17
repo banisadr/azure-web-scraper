@@ -1,1 +1,9 @@
 c:\users\babanisa\documents\visual studio 2015\Projects\Sender\Sender\bin\Debug\Sender.exe.config
+C:\Code\azure-web-scraper\Sender\Sender\bin\Debug\Sender.exe.config
+C:\Code\azure-web-scraper\Sender\Sender\bin\Debug\Sender.exe
+C:\Code\azure-web-scraper\Sender\Sender\bin\Debug\Sender.pdb
+C:\Code\azure-web-scraper\Sender\Sender\bin\Debug\Microsoft.ServiceBus.dll
+C:\Code\azure-web-scraper\Sender\Sender\bin\Debug\Microsoft.ServiceBus.xml
+C:\Code\azure-web-scraper\Sender\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Code\azure-web-scraper\Sender\Sender\obj\Debug\Sender.exe
+C:\Code\azure-web-scraper\Sender\Sender\obj\Debug\Sender.pdb
