@@ -13,7 +13,7 @@ namespace Receiver
         {
             string eventHubConnectionString = "Endpoint=sb://babanisa-webscrape-11152016.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=2FLuXODdMsDrKAM0mpUzKvsXxIjUiWW+sWfCtgMAswA=";
             string eventHubName = "web-scraper-eh";
-            string storageAccountName = "scraper116016";
+            string storageAccountName = "scraper11162016";
             string storageAccountKey = "zQr+lGFltTIkLiLQHFIlql3sKLGM2wsiOXv0iCavu9BIZS7PzkLh7NrjxOlLRdNAeUr1xtZLPR5qKhE/AGeoqg==";
             string storageConnectionString = string.Format("DefaultEndpointsProtocol=https;AccountName={0};AccountKey={1}", storageAccountName, storageAccountKey);
 
