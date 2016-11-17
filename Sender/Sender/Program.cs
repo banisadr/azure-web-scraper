@@ -11,8 +11,8 @@ namespace Sender
     class Program
     {
 
-        static string eventHubName = "web-scrapre-eh";
-        static string connectionString = "Endpoint=sb://babanisa-webscrape-11152016.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=2FLuXODdMsDrKAM0mpUzKvsXxIjUiWW+sWfCtgMAswA=";
+        static string eventHubName = "web-scraper-eh";
+        static string connectionString = "Endpoint=sb://web-scraper-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=biwpv9PsUfcYmtaCz+QF+i/eYpLINSjLTpe+FpaKNE0=";
 
         static void Main(string[] args)
         {
